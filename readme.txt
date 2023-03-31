@@ -1,5 +1,5 @@
 Welcome to my project!
 
-Author: John
+Author: John Santos
 Twitter: no twitter account
 Gmail: test@gmail.com
