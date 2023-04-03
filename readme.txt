@@ -1,4 +1,4 @@
-#Welcome to the "Git for Beginners" project!
+# Welcome to the "Git for Beginners" project!
 
 Author: John Errol Santos
 Position: Sr. Programmer
