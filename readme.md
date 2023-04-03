@@ -1,7 +1,7 @@
 # Welcome to the "Git for Beginners" project!
 
 * Author: John Errol Santos
-* Position: Sr. Programmer
+* Position: Beginner
 * Twitter: no twitter account
 * Gmail: test@gmail.com
 * Website: https://www.test.com
